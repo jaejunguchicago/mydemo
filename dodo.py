@@ -178,6 +178,10 @@ notebook_tasks = {
             OUTPUT_DIR / "rates_relative_to_midpoint.png",
         ],
     },
+    "04_ken_french_data.ipynb": {
+        "file_dep": [],
+        "targets": [],
+    },
 }
 
 
