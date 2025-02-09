@@ -11,6 +11,7 @@ Last updated: {sub-ref}`today`
 notebooks/01_example_notebook_interactive.ipynb
 notebooks/02_example_with_dependencies.ipynb
 notebooks/03_public_repo_summary_charts.ipynb
+notebooks/04_ken_french_data.ipynb
 ```
 
 
